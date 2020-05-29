@@ -1,4 +1,6 @@
 # Welcome to the Nam Nguyen Creator Library
+* Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
+* Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
 <html>
 <body>
     
