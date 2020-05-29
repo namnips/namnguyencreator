@@ -55,11 +55,14 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     Download Link: 
             - Cinema 4D R21 v21.026: http://bit.ly/2qBPd6j
         
-### Tia Portal V16
-Download links: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)
-		
-### Tia Portal V15.1
-Download links: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
+### Siemens NX
+    - Version 1880: http://bit.ly/34RZl9R or Mega link in the video.
+    - Version 1888: http://bit.ly/2NAQK5n
+    - Version 1892 ( 09-Dec-19): http://bit.ly/2sbHGMk or http://bit.ly/2Rv1pRD
+
+### Siemens - Tia Portal
+    - V16: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)
+    - V15.1: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
         
 ### Twinmotion 20xx
     - Twinmotion 2020: Coming soon
