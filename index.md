@@ -14,7 +14,7 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 	
 ## Windows
 ### Adobe Master Collection CC 2019 for Windows
-	1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik
+	1. Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik
 	2. Adobe After Effects CC 2019 v16.1.3.5 Multilingual: http://bit.ly/2pYqdWE
 	3. Adobe Illustrator CC 2019 v23.1.0.670 RePack by m0nkrus (x64): http://bit.ly/2Q5jTHD
 	4. Adobe InDesign CC 2019 v14.0.3.433 RePack by m0nkrus (x64): http://bit.ly/2NZLvez
