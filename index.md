@@ -87,4 +87,4 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 http://bit.ly/2R4oLLX
 
 
-Copyright © Nam Nguyen Creator 2020. All rights reserved.
+Copyright © 2020 Nam Nguyen Creator. All rights reserved.
