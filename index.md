@@ -80,8 +80,8 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh
     - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx 
 
-### V-Ray 2.30.01 For Maya
-    -  for Maya 2011 - 2013 x64: Direct Torrent Links: https://stfly.io/wh6jP
+### V-Ray for Maya
+    -  v2.30.01 for Maya 2011 - 2013 x64: Direct Torrent Links: https://stfly.io/wh6jP
 
 
 http://bit.ly/2R4oLLX
