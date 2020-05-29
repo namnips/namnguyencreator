@@ -36,8 +36,8 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     - Version 2018: http://bit.ly/2NWP59i
 
 ### Autodesk AutoCad 2020.1
-    - Link 1 - AutoCad 2020.1: http://bit.ly/2X5Y1NY
-    - Link 2 - AutoCad 2019.1.2: http://bit.ly/2NykD6w
+    - AutoCad 2020.1: http://bit.ly/2X5Y1NY
+    - AutoCad 2019.1.2: http://bit.ly/2NykD6w
 
 ### Lumion Pro
     You can buy at homepages or try download Links:
