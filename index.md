@@ -34,13 +34,13 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 	- Version 2020: http://bit.ly/2NDiJBL 
 	- Version 2019: http://bit.ly/32y1tSr
 	
-### Autodesk Maya 2018 - 2020
+### Autodesk Maya
     - Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)
     - Version 2019: http://bit.ly/2CuXTxI
     - Version 2018.3: http://bit.ly/2qHcovI
     - Version 2018: http://bit.ly/2NWP59i
 
-### Autodesk AutoCad 2020.1
+### Autodesk AutoCad
     - AutoCad 2020.1: http://bit.ly/2X5Y1NY
     - AutoCad 2019.1.2: http://bit.ly/2NykD6w
 
@@ -69,19 +69,19 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     - V16: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)
     - V15.1: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
         
-### Twinmotion 20xx
+### Twinmotion
     - Twinmotion 2020: Coming soon
     - Twinmotion 2019: http://bit.ly/36RT0ga 
 
-### V-Ray Next for Maya 2016 - 2020
+### V-Ray Next for Maya
     - V-Ray Next for Maya 2020: Coming soon
     - V-Ray Next v4.30.00 for Maya 2019: http://bit.ly/2M9U8mM (updated: Dec 19, 2019)
     - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc
     - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh
     - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx 
 
-### V-Ray 2.30.01 For Maya 2011 - 2013 x64
-    - Direct Torrent Links: https://stfly.io/wh6jP
+### V-Ray 2.30.01 For Maya
+    -  for Maya 2011 - 2013 x64: Direct Torrent Links: https://stfly.io/wh6jP
 
 
 http://bit.ly/2R4oLLX
