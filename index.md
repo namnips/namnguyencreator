@@ -1,7 +1,6 @@
-# Nam Nguyen Creator - Softwares Collection
 <html>
 <body>
-    <h1>Welcome to the Nam Nguyen Creator Library</h1>
+# Welcome to the Nam Nguyen Creator Library
     
     <h2>Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)</h2>
     
