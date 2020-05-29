@@ -1,54 +1,31 @@
 # Welcome to the Nam Nguyen Creator Library
     
 Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)
-    
-# Mac OS
+
 ## Mac OS
 ### Adobe Master Collection CC 2019 for Mac OS
 	1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
 	2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
-    	3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
+	3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
 	4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
 	5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
 	
 ## Windows
-		<h2>Adobe Master Collection CC 2019 for Windows</h2>
-		<p>
+## Adobe Master Collection CC 2019 for Windows
             1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik
-        </p>
-        <p>
             2. Adobe After Effects CC 2019 v16.1.3.5 Multilingual: http://bit.ly/2pYqdWE
-        </p>
-        <p>
             3. Adobe Illustrator CC 2019 v23.1.0.670 RePack by m0nkrus (x64): http://bit.ly/2Q5jTHD
-        </p>
-        <p>
             4. Adobe InDesign CC 2019 v14.0.3.433 RePack by m0nkrus (x64): http://bit.ly/2NZLvez
-        </p>
-        <p>
             5. Adobe Media Encoder CC 2019 v13.1.5.35 Multilingual RePack by m0nkrus: http://bit.ly/34RRj0K
-        </p>
-        <p>
             6. Adobe Photoshop CC 2019 v20.0.7 RePack by m0nkrus: http://bit.ly/2pZa8QE
-        </p>
-        <p>
             7. Adobe Photoshop Lightroom Classic CC 2019 v8.4.1.10 RePack: http://bit.ly/33Cdbwy
-        </p>
-        <p>
             8. Adobe Premiere Pro CC 2019 v13.1.5.47 Multilingual RePack by m0nkrus: http://bit.ly/32BdQx7 
-            
             Bonus:  
             - Adobe Acrobat XI Pro v11.0.23 Final: http://bit.ly/2rwMCuN
-		</p>
 		
-        <h2>Autodesk 3ds Max</h2>
-        <p>
+## Autodesk 3ds Max
             - Version 2020: http://bit.ly/2NDiJBL 
-        </p>
-        <p>
             - Version 2019: http://bit.ly/32y1tSr 
-        </p>
-        
         <h2>Autodesk Maya 2018 - 2020</h2>
         <p>
             - Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)
