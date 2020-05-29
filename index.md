@@ -11,36 +11,29 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 	5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
 	
 ## Windows
-## Adobe Master Collection CC 2019 for Windows
-            1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik
-            2. Adobe After Effects CC 2019 v16.1.3.5 Multilingual: http://bit.ly/2pYqdWE
-            3. Adobe Illustrator CC 2019 v23.1.0.670 RePack by m0nkrus (x64): http://bit.ly/2Q5jTHD
-            4. Adobe InDesign CC 2019 v14.0.3.433 RePack by m0nkrus (x64): http://bit.ly/2NZLvez
-            5. Adobe Media Encoder CC 2019 v13.1.5.35 Multilingual RePack by m0nkrus: http://bit.ly/34RRj0K
-            6. Adobe Photoshop CC 2019 v20.0.7 RePack by m0nkrus: http://bit.ly/2pZa8QE
-            7. Adobe Photoshop Lightroom Classic CC 2019 v8.4.1.10 RePack: http://bit.ly/33Cdbwy
-            8. Adobe Premiere Pro CC 2019 v13.1.5.47 Multilingual RePack by m0nkrus: http://bit.ly/32BdQx7 
-            Bonus:  
-            - Adobe Acrobat XI Pro v11.0.23 Final: http://bit.ly/2rwMCuN
+### Adobe Master Collection CC 2019 for Windows
+	1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik
+	2. Adobe After Effects CC 2019 v16.1.3.5 Multilingual: http://bit.ly/2pYqdWE
+	3. Adobe Illustrator CC 2019 v23.1.0.670 RePack by m0nkrus (x64): http://bit.ly/2Q5jTHD
+	4. Adobe InDesign CC 2019 v14.0.3.433 RePack by m0nkrus (x64): http://bit.ly/2NZLvez
+	5. Adobe Media Encoder CC 2019 v13.1.5.35 Multilingual RePack by m0nkrus: http://bit.ly/34RRj0K
+	6. Adobe Photoshop CC 2019 v20.0.7 RePack by m0nkrus: http://bit.ly/2pZa8QE
+	7. Adobe Photoshop Lightroom Classic CC 2019 v8.4.1.10 RePack: http://bit.ly/33Cdbwy
+	8. Adobe Premiere Pro CC 2019 v13.1.5.47 Multilingual RePack by m0nkrus: http://bit.ly/32BdQx7 
+	Bonus:  
+	    - Adobe Acrobat XI Pro v11.0.23 Final: http://bit.ly/2rwMCuN
 		
-## Autodesk 3ds Max
-            - Version 2020: http://bit.ly/2NDiJBL 
-            - Version 2019: http://bit.ly/32y1tSr 
-        <h2>Autodesk Maya 2018 - 2020</h2>
-        <p>
-            - Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)
-        </p>
-        <p> 
-            - Version 2019: http://bit.ly/2CuXTxI
-        </p>
-        <p>
-            - Version 2018.3: http://bit.ly/2qHcovI
-        </p>
-        <p>
-            - Version 2018: http://bit.ly/2NWP59i
-        </p>
-        
-        <h2>Autodesk AutoCad 2020.1</h2>
+### Autodesk 3ds Max
+	- Version 2020: http://bit.ly/2NDiJBL 
+	- Version 2019: http://bit.ly/32y1tSr
+	
+### Autodesk Maya 2018 - 2020
+- Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)
+- Version 2019: http://bit.ly/2CuXTxI
+- Version 2018.3: http://bit.ly/2qHcovI
+- Version 2018: http://bit.ly/2NWP59i
+
+### Autodesk AutoCad 2020.1
 		<p>
             - Link 1 - AutoCad 2020.1: http://bit.ly/2X5Y1NY
         </p>
