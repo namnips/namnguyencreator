@@ -13,65 +13,69 @@
     <h1>Mac OS</h1>
 		<h2>Adobe Master Collection CC 2019 for Mac OS</h2>
 		<p>
-            1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0\n
-            2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka\n
-            3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy\n
-            4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo\n
-            5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB\n
+            1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
+
+            2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
+
+            3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
+
+            4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
+
+            5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
 		</p>
 		
 	<h1>Windows</h1>	
 		<h2>Adobe Master Collection CC 2019 for Windows</h2>
 		<p>
-            1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik \n
-            2. Adobe After Effects CC 2019 v16.1.3.5 Multilingual: http://bit.ly/2pYqdWE\n
-            3. Adobe Illustrator CC 2019 v23.1.0.670 RePack by m0nkrus (x64): http://bit.ly/2Q5jTHD\n
-            4. Adobe InDesign CC 2019 v14.0.3.433 RePack by m0nkrus (x64): http://bit.ly/2NZLvez\n
-            5. Adobe Media Encoder CC 2019 v13.1.5.35 Multilingual RePack by m0nkrus: http://bit.ly/34RRj0K\n
-            6. Adobe Photoshop CC 2019 v20.0.7 RePack by m0nkrus: http://bit.ly/2pZa8QE\n
-            7. Adobe Photoshop Lightroom Classic CC 2019 v8.4.1.10 RePack: http://bit.ly/33Cdbwy\n
-            8. Adobe Premiere Pro CC 2019 v13.1.5.47 Multilingual RePack by m0nkrus: http://bit.ly/32BdQx7\n
+            1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik  
+            2. Adobe After Effects CC 2019 v16.1.3.5 Multilingual: http://bit.ly/2pYqdWE 
+            3. Adobe Illustrator CC 2019 v23.1.0.670 RePack by m0nkrus (x64): http://bit.ly/2Q5jTHD 
+            4. Adobe InDesign CC 2019 v14.0.3.433 RePack by m0nkrus (x64): http://bit.ly/2NZLvez 
+            5. Adobe Media Encoder CC 2019 v13.1.5.35 Multilingual RePack by m0nkrus: http://bit.ly/34RRj0K 
+            6. Adobe Photoshop CC 2019 v20.0.7 RePack by m0nkrus: http://bit.ly/2pZa8QE 
+            7. Adobe Photoshop Lightroom Classic CC 2019 v8.4.1.10 RePack: http://bit.ly/33Cdbwy 
+            8. Adobe Premiere Pro CC 2019 v13.1.5.47 Multilingual RePack by m0nkrus: http://bit.ly/32BdQx7 
             
-            Bonus: \n
+            Bonus:  
             - Adobe Acrobat XI Pro v11.0.23 Final: http://bit.ly/2rwMCuN
 		</p>
 		
         <h2>Autodesk 3ds Max</h2>
         <p>
-            - Version 2020: http://bit.ly/2NDiJBL\n
-            - Version 2019: http://bit.ly/32y1tSr\n
+            - Version 2020: http://bit.ly/2NDiJBL 
+            - Version 2019: http://bit.ly/32y1tSr 
         </p>
         
         <h2>Autodesk Maya 2018 - 2020</h2>
         <p>
-            - Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)\n
-            - Version 2019: http://bit.ly/2CuXTxI\n
-            - Version 2018.3: http://bit.ly/2qHcovI\n
-            - Version 2018: http://bit.ly/2NWP59i\n
+            - Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019) 
+            - Version 2019: http://bit.ly/2CuXTxI 
+            - Version 2018.3: http://bit.ly/2qHcovI 
+            - Version 2018: http://bit.ly/2NWP59i 
         </p>
         
         <h2>Autodesk AutoCad 2020.1</h2>
 		<p>
-            - Link 1 - AutoCad 2020.1: http://bit.ly/2X5Y1NY \n
-            - Link 2 - AutoCad 2019.1.2: http://bit.ly/2NykD6w \n
+            - Link 1 - AutoCad 2020.1: http://bit.ly/2X5Y1NY  
+            - Link 2 - AutoCad 2019.1.2: http://bit.ly/2NykD6w  
 		</p>
         
         <h2>Lumion Pro</h2>
     	<p>You can buy at homepages or try download Links:</p>
     	<p>
-			1. Lumion 10 Pro: \n
-			    - http://bit.ly/35xz1Tb or http://bit.ly/2YXeiFE (updated: Dec 18, 2019)\n
-			    - Medicine only: http://bit.ly/2S9WFRT\n
-			    - Torrent Direct Link: http://bit.ly/2FTHSn3 \n
-			2. Lumion 9.0.2 Pro (free update to 9.5): http://bit.ly/36R7ptc\n
-			3. Lumion 8.5 Pro: http://bit.ly/34Pg4ua\n
-			4. Lumion 8 Pro: http://bit.ly/34PitVY\n
-			5. Lumion 6 Pro: http://bit.ly/33H0VeA\n
-			6. Lumion 5 Pro: http://bit.ly/2qKZGft\n
+			1. Lumion 10 Pro:  
+			    - http://bit.ly/35xz1Tb or http://bit.ly/2YXeiFE (updated: Dec 18, 2019) 
+			    - Medicine only: http://bit.ly/2S9WFRT 
+			    - Torrent Direct Link: http://bit.ly/2FTHSn3  
+			2. Lumion 9.0.2 Pro (free update to 9.5): http://bit.ly/36R7ptc 
+			3. Lumion 8.5 Pro: http://bit.ly/34Pg4ua 
+			4. Lumion 8 Pro: http://bit.ly/34PitVY 
+			5. Lumion 6 Pro: http://bit.ly/33H0VeA 
+			6. Lumion 5 Pro: http://bit.ly/2qKZGft 
 		</p>
         
 		<h2>Maxon Cinema</h2>
-		<p>Download Link:\n
+		<p>Download Link: 
             - Cinema 4D R21 v21.026: http://bit.ly/2qBPd6j
         </p>
         
@@ -83,17 +87,17 @@
         
         <h2>Twinmotion 20xx</h2>
         <p>
-            - Twinmotion 2020: Coming soon\n
-            - Twinmotion 2019: http://bit.ly/36RT0ga\n
+            - Twinmotion 2020: Coming soon 
+            - Twinmotion 2019: http://bit.ly/36RT0ga 
         </p>
         
         <h2>V-Ray Next for Maya 2016 - 2020</h2>
         <p>
-            - V-Ray Next for Maya 2020: Coming soon\n
-            - V-Ray Next v4.30.00 for Maya 2019: http://bit.ly/2M9U8mM (updated: Dec 19, 2019)\n
-            - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc\n
-            - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh\n
-            - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx\n
+            - V-Ray Next for Maya 2020: Coming soon 
+            - V-Ray Next v4.30.00 for Maya 2019: http://bit.ly/2M9U8mM (updated: Dec 19, 2019) 
+            - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc 
+            - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh 
+            - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx 
         </p>
         
         <h2>V-Ray 2.30.01 For Maya 2011 - 2013 x64</h2>
