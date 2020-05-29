@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Nam Nguyen Creator - Softwares Collection</title>
