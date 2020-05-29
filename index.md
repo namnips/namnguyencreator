@@ -12,10 +12,10 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 	3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
 	4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
 	5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
-    6. Adobe Premiere Pro CC 2019 v13.0.1.13 Final Mac OS: https://mega.nz/file/xoAXgS7R#lCsrlVud8zZXwUsDNRu8BRaA8QEWaip2Bi7Qv6cmOy0
+    6. Adobe Premiere Pro CC 2019 v13.0.1.13 Final Mac OS: http://raboninco.com/ltMX
 
     2020
-    1. Adobe After Effects 2020 v17.0.0.557 Final Mac OS: https://mega.nz/file/Y0BnwAJR#5400ERyEcJWJsnGUIoiXP8eRL8RwXLp70zlNv3C8fwE
+    1. Adobe After Effects 2020 v17.0.0.557 Final Mac OS: http://raboninco.com/ltGz
 	
 ## Windows
 ### Adobe Master Collection CC for Windows
