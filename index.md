@@ -28,53 +28,36 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 	- Version 2019: http://bit.ly/32y1tSr
 	
 ### Autodesk Maya 2018 - 2020
-- Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)
-- Version 2019: http://bit.ly/2CuXTxI
-- Version 2018.3: http://bit.ly/2qHcovI
-- Version 2018: http://bit.ly/2NWP59i
+    - Version 2020: http://bit.ly/2PrH5zg or http://bit.ly/34qXV5g (updated: Dec 12, 2019)
+    - Version 2019: http://bit.ly/2CuXTxI
+    - Version 2018.3: http://bit.ly/2qHcovI
+    - Version 2018: http://bit.ly/2NWP59i
 
 ### Autodesk AutoCad 2020.1
-		<p>
-            - Link 1 - AutoCad 2020.1: http://bit.ly/2X5Y1NY
-        </p>
-        <p> 
-            - Link 2 - AutoCad 2019.1.2: http://bit.ly/2NykD6w
-		</p>
-        
-        <h2>Lumion Pro</h2>
-    	<p>You can buy at homepages or try download Links:</p>
-    	<p>
-			1. Lumion 10 Pro:  
-			    - http://bit.ly/35xz1Tb or http://bit.ly/2YXeiFE (updated: Dec 18, 2019) 
-			    - Medicine only: http://bit.ly/2S9WFRT 
-			    - Torrent Direct Link: http://bit.ly/2FTHSn3
-		</p>
-        <p>
-			2. Lumion 9.0.2 Pro (free update to 9.5): http://bit.ly/36R7ptc
-		</p>
-        <p>
-			3. Lumion 8.5 Pro: http://bit.ly/34Pg4ua
-		</p>
-        <p>
-			4. Lumion 8 Pro: http://bit.ly/34PitVY
-		</p>
-        <p>
-			5. Lumion 6 Pro: http://bit.ly/33H0VeA
-		</p>
-        <p>
-			6. Lumion 5 Pro: http://bit.ly/2qKZGft
-		</p>
-        
-		<h2>Maxon Cinema</h2>
-		<p>Download Link: 
+    - Link 1 - AutoCad 2020.1: http://bit.ly/2X5Y1NY
+    - Link 2 - AutoCad 2019.1.2: http://bit.ly/2NykD6w
+
+### Lumion Pro
+    You can buy at homepages or try download Links:
+    1. Lumion 10 Pro:  
+        - http://bit.ly/35xz1Tb or http://bit.ly/2YXeiFE (updated: Dec 18, 2019) 
+        - Medicine only: http://bit.ly/2S9WFRT 
+        - Torrent Direct Link: http://bit.ly/2FTHSn3
+    2. Lumion 9.0.2 Pro (free update to 9.5): http://bit.ly/36R7ptc
+    3. Lumion 8.5 Pro: http://bit.ly/34Pg4ua
+    4. Lumion 8 Pro: http://bit.ly/34PitVY
+	5. Lumion 6 Pro: http://bit.ly/33H0VeA
+	6. Lumion 5 Pro: http://bit.ly/2qKZGft
+
+### Maxon Cinema
+    Download Link: 
             - Cinema 4D R21 v21.026: http://bit.ly/2qBPd6j
-        </p>
         
-        <h2>Tia Portal V16</h2>
-		<p>Download links: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)</p>
+### Tia Portal V16
+Download links: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)
 		
-		<h2>Tia Portal V15.1</h2>
-		<p>Download links: http://bit.ly/2p4ZU0z or Mega Link in YouTube video</p>
+### Tia Portal V15.1
+Download links: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
         
         <h2>Twinmotion 20xx</h2>
         <p>
