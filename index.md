@@ -4,7 +4,7 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 
 ## Mac OS
 ### Adobe Master Collection CC 2019 for Mac OS
-	1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
+	1. Adobe Bridge CC 2019 9.0.3: <http://bit.ly/32Axsl0>
 	2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
 	3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
 	4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
@@ -75,4 +75,6 @@ Download links: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
 
 
 http://bit.ly/2R4oLLX
+
+![](Nam_Nguyen_Creator_Logo_2020_v1.0_W1422xH1422.png)
 
