@@ -1,31 +1,17 @@
 # Welcome to the Nam Nguyen Creator Library
-* Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
-* Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
-<html>
-<body>
     
-    <h2>Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)</h2>
+Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)
     
-    <div>
-    <h1>Mac OS</h1>
-		<h2>Adobe Master Collection CC 2019 for Mac OS</h2>
-		<p>
-            1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
-        </p>
-        <p>
-            2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
-        </p>
-        <p>
-            3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
-        </p>
-        <p>
-            4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
-        </p>
-        <p>
-            5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
-		</p>
-		
-	<h1>Windows</h1>	
+# Mac OS
+## Mac OS
+### Adobe Master Collection CC 2019 for Mac OS
+	1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
+	2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
+    	3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
+	4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
+	5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
+	
+## Windows
 		<h2>Adobe Master Collection CC 2019 for Windows</h2>
 		<p>
             1.  Adobe Acrobat Pro DC v2019.021.20049 Final: http://bit.ly/2O2D8ik
@@ -151,6 +137,4 @@
         </p>
     </div>
     http://bit.ly/2R4oLLX
-</body>
 
-</html>
