@@ -10,6 +10,13 @@
     <h2>Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)</h2>
     
     <div>
+    
+    Let's check out [Wikipedia][1] and [Google][2].
+...
+...
+[1]: https://en.wikipedia.org "Wikipedia"
+[2]: https://www.google.com "Google"
+    
     <h1>Mac OS</h1>
 		<h2>Adobe Master Collection CC 2019 for Mac OS</h2>
 		<p>
