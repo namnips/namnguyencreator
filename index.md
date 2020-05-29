@@ -14,13 +14,17 @@
 		<h2>Adobe Master Collection CC 2019 for Mac OS</h2>
 		<p>
             1. Adobe Bridge CC 2019 9.0.3: http://bit.ly/32Axsl0
-
+        </p>
+        <p>
             2. Adobe Illustrator CC 2019 23.1.1: http://bit.ly/2Qci2ka
-
+        </p>
+        <p>
             3. Adobe InDesign CC 2019 14.0.2: http://bit.ly/2KanyQy
-
+        </p>
+        <p>
             4. Adobe Lightroom Classic CC 2019 v8.4.1: http://bit.ly/2Q7mUHo
-
+        </p>
+        <p>
             5. Adobe Photoshop CC 2019 v20.0.7: http://bit.ly/2X2f9UB
 		</p>
 		
