@@ -59,35 +59,20 @@ Download links: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12,
 ### Tia Portal V15.1
 Download links: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
         
-        <h2>Twinmotion 20xx</h2>
-        <p>
-            - Twinmotion 2020: Coming soon
-        </p>
-        <p>
-            - Twinmotion 2019: http://bit.ly/36RT0ga 
-        </p>
-        
-        <h2>V-Ray Next for Maya 2016 - 2020</h2>
-        <p>
-            - V-Ray Next for Maya 2020: Coming soon
-        </p>
-        <p>
-            - V-Ray Next v4.30.00 for Maya 2019: http://bit.ly/2M9U8mM (updated: Dec 19, 2019)
-        </p>
-        <p>
-            - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc
-        </p>
-        <p>
-            - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh
-        </p>
-        <p>
-            - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx 
-        </p>
-        
-        <h2>V-Ray 2.30.01 For Maya 2011 - 2013 x64</h2>
-        <p>
-            - Direct Torrent Links: https://stfly.io/wh6jP
-        </p>
-    </div>
-    http://bit.ly/2R4oLLX
+### Twinmotion 20xx
+    - Twinmotion 2020: Coming soon
+    - Twinmotion 2019: http://bit.ly/36RT0ga 
+
+### V-Ray Next for Maya 2016 - 2020
+    - V-Ray Next for Maya 2020: Coming soon
+    - V-Ray Next v4.30.00 for Maya 2019: http://bit.ly/2M9U8mM (updated: Dec 19, 2019)
+    - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc
+    - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh
+    - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx 
+
+### V-Ray 2.30.01 For Maya 2011 - 2013 x64
+    - Direct Torrent Links: https://stfly.io/wh6jP
+
+
+http://bit.ly/2R4oLLX
 
