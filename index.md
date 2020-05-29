@@ -1,10 +1,4 @@
-<html>
-<head>
-    <title>Nam Nguyen Creator - Softwares Collection</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-
-<body>
+# Nam Nguyen Creator - Softwares Collection
     <h1>Welcome to the Nam Nguyen Creator Library</h1>
     
     <h2>Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)</h2>
@@ -154,6 +148,4 @@
         </p>
     </div>
     http://bit.ly/2R4oLLX
-</body>
 
-</html>
