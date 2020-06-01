@@ -68,6 +68,9 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 ### Siemens - Tia Portal
     - V16: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)
     - V15.1: http://bit.ly/2p4ZU0z or Mega Link in YouTube video
+    
+### SolidWorks
+    - - SolidWorks 2020 version SP0: http://eunsetee.com/i7tf
         
 ### Twinmotion
     - Twinmotion 2020: Coming soon
