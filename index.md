@@ -8,7 +8,7 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
 ### Apple
     1. Final Cut Pro X 10.4.8: http://raboninco.com/oI1k
     
-### Microsoft
+### Microsoft for Mac
     1. Microsoft Office 2019 for Mac 16.32: http://raboninco.com/oI7G
     
 ### Adobe Master Collection CC for Mac OS
