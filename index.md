@@ -86,7 +86,7 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     - Twinmotion 2019: http://bit.ly/36RT0ga 
 
 ### V-Ray Next for Maya
-    - V-Ray Next for Maya 2020: Coming soon
+    - V-Ray Next for Maya 2020: http://raboninco.com/peAK (updated: Jun 03, 2020)
     - V-Ray Next v4.30.00 for Maya 2019: http://bit.ly/2M9U8mM (updated: Dec 19, 2019)
     - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc
     - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh
