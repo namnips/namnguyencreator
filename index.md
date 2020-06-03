@@ -77,7 +77,10 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     
 ### SolidWorks
     - SolidWorks 2020 version SP0: http://eunsetee.com/i7tf
-        
+
+### SketchUp Pro
+    - SketchUp Pro 2020 v20.0.373 (x64) Final: http://raboninco.com/pdjz
+
 ### Twinmotion
     - Twinmotion 2020: Coming soon
     - Twinmotion 2019: http://bit.ly/36RT0ga 
@@ -88,6 +91,9 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     - V-Ray Next 4.04.03 for Maya 2018: http://bit.ly/2qDcZPc
     - V-Ray Next 4.30.00 for Maya 2017: http://bit.ly/2Z2Rwwh
     - V-Ray Adv 3.10.01 For Maya 2016: http://bit.ly/32x2NVx 
+
+### V-Ray Next for SketchUp
+    - V-Ray Next Build 4.20.02 for SketchUp 2016-2020: http://raboninco.com/pdgt
 
 ### V-Ray for Maya
     -  v2.30.01 for Maya 2011 - 2013 x64: Direct Torrent Links: https://stfly.io/wh6jP
