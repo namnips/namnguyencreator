@@ -1,9 +1,9 @@
 ![](Nam_Nguyen_Creator_Logo_2020.png)
 
 # Welcome to the Nam Nguyen Creator Library
-
+<div>
 <script data-ad-client="ca-pub-6900416519178306" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+</div>
 Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (Mac and Windows)
 
 ## Mac OS
