@@ -70,6 +70,7 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     - Version 1880: http://bit.ly/34RZl9R or Mega link in the video.
     - Version 1888: http://bit.ly/2NAQK5n
     - Version 1892 ( 09-Dec-19): http://bit.ly/2sbHGMk or http://bit.ly/2Rv1pRD
+    - Version 1926: http://raboninco.com/1VZDr
 
 ### Siemens - Tia Portal
     - V16: http://bit.ly/2FE0yXy or http://bit.ly/2uznfd8 (updated: Jan 12, 2020)
