@@ -21,7 +21,9 @@ Torrent File Download Software: http://bit.ly/2NCheDQ or http://bit.ly/2X30Qzh (
     6. Adobe Premiere Pro CC 2019 v13.0.1.13 Final Mac OS: http://raboninco.com/ltMX
 
     2020
-    1. Adobe After Effects 2020 v17.0.0.557 Final Mac OS: http://raboninco.com/ltGz
+    	1. Adobe Photoshop 2020 v21.0.3: http://raboninco.com/1WH95
+   	2. Adobe Illustrator CC 2020 v24.0.3: http://raboninco.com/1WHDu
+    	3. Adobe After Effects 2020 v17.0.0.557 Final Mac OS: http://raboninco.com/ltGz
 	
 ## Windows
 ### Adobe Master Collection CC for Windows
